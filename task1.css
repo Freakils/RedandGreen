@@ -2,6 +2,7 @@
 	height: 10em;
 	width: 10em;
 	background: red;
+	text-align: center;
 }
 body {
 	color: white;
@@ -11,4 +12,5 @@ body {
 	height: 10em;
 	width: 10em;
 	background: green;
+	text-align: center;
 }

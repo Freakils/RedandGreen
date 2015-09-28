@@ -1,0 +1,23 @@
+.red {
+	height: 10em;
+	width: 10em;
+	background: red;
+	margin: 10px;
+}
+body {
+	color: white;
+}
+
+.green {
+	height: 10em;
+	width: 10em;
+	background: green;
+	margin: 10px
+}
+
+.Grey {
+	height: 10em;
+	width: 10em;
+	background-color: grey;
+	margin: 10px;
+}
