@@ -1,4 +1,3 @@
-
 var redbutton = document.getElementById("redbutton");
 redbutton.addEventListener("click", function (){
 	var Fish = document.getElementById("TheBlock");
